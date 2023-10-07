@@ -1,0 +1,14 @@
+{
+  "name": "nodetest",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vitali",
+  "license": "ISC",
+  "dependencies": {
+    "currency-converter-lt": "^2.0.0"
+  }
+}
